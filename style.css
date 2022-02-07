@@ -1,0 +1,24 @@
+.menu {
+  color: white;
+  text-transform: uppercase;
+  font-size: 120%;
+}
+.div_menu {
+  background-color: black;
+  position: relative;
+}
+.slider-div {
+  display: flex;
+  justify-content: center;
+  }
+.slider {
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top:10px;
+}
+
+footer {
+  background-color: black;
+  color:white;
+  text-align: center;
+}
